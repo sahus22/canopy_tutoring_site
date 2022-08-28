@@ -1,0 +1,120 @@
+[
+    {
+        "_id": "dsanjkd832907432njkfds78f4n30fdnvfdsbk",
+        "active": true,
+        "BiographicalInformation": {
+            "FirstName": "Joanne",
+            "MiddleName": null,
+            "LastName": "McCarthy",
+            "DateOfBirth": "01/12/1969",
+            "Accent": "Southern",
+            "Languages": ["English"]
+        },
+        "ContactInformation": {
+            "PhoneNumber": "1112223333",
+            "EmailAddress": "JoMcCar@gmail.com",
+            "Location": {
+                "City": "Richardson",
+                "State": "Texas",
+                "Country": "US"
+            }
+        },
+        "Subjects": [
+            {
+                "Subject": "Physics",
+                "Levels": ["Elementary", "HighSchool"]
+            },
+            {
+                "Subject": "Math",
+                "Levels": ["Elementary"]
+            }
+        ], 
+        "Profile":{
+            "ProfileImage": "images/dsanjkd832907432njkfds78f4n30fdnvfdsbk.jpg",
+            "Tags": ["Visual", "Certified", "Female", "Casual", "Teacher"],
+            "Description": "I have taught STEM courses at Richland HS for over 20 years. Can't catch me slippin' because I've got that Fn Muuuu!",
+            "AverageRating": 4.7,
+            "AccountCreationDate": "12/25/2021"
+        }
+    },
+    {
+        "_id": "klnuivfd8v9f43nf4378f432n432jk543k34nknfgd",
+        "active": true,
+        "BiographicalInformation": {
+            "FirstName": "May",
+            "MiddleName": null,
+            "LastName": "Denles",
+            "DateOfBirth": "09/24/2001",
+            "Accent": "British",
+            "Languages": ["English", "French"]
+        },
+        "ContactInformation": {
+            "PhoneNumber": "3211234567",
+            "EmailAddress": "NoMayDens@gmail.com",
+            "Location": {
+                "City": "Cambridge",
+                "State": "Massachusetts",
+                "Country": "US"
+            }
+        },
+        "Subjects": [
+            {
+                "Subject": "English",
+                "Levels": ["Kindergarten", "Elementary"]
+            },
+            {
+                "Subject": "Piano",
+                "Levels": ["Elementary"]
+            },
+            {
+                "Subject": "French",
+                "Levels": ["Elementary"]
+            }
+        ], 
+        "Profile":{
+            "ProfileImage": "images/klnuivfd8v9f43nf4378f432n432jk543k34nknfgd.jpg",
+            "Tags": ["Friendly", "New", "Female", "Relaxed"],
+            "Description": "Sophomore at MIT studying performing arts; great with kids!",
+            "AverageRating": 3.0,
+            "AccountCreationDate": "03/23/2022"
+        }
+    },
+    {
+        "_id": "nfdianf8493f4623f4jf5jklgrejlfdg09t584398y4329uh",
+        "active": true,
+        "BiographicalInformation": {
+            "FirstName": "Ray",
+            "MiddleName": null,
+            "LastName": "Chen",
+            "DateOfBirth": "03/14/1990",
+            "Accent": "Chinese",
+            "Languages": ["English", "Mandarin", "Cantonese"]
+        },
+        "ContactInformation": {
+            "PhoneNumber": "8888888888",
+            "EmailAddress": "RayChen@gmail.com",
+            "Location": {
+                "City": "Austin",
+                "State": "Texas",
+                "Country": "US"
+            }
+        },
+        "Subjects": [
+            {
+                "Subject": "Computer Science",
+                "Levels": ["HighSchool", "College"]
+            },
+            {
+                "Subject": "Math",
+                "Levels": ["HighSchool"]
+            }
+        ], 
+        "Profile":{
+            "ProfileImage": "images/nfdianf8493f4623f4jf5jklgrejlfdg09t584398y4329uh.jpg",
+            "Tags": ["Researcher", "UT", "Strict"],
+            "Description": "Senior lecturer at UT Austin; top rated discrete math professor 2 years running!",
+            "AverageRating": 5.0,
+            "AccountCreationDate": "12/26/2021"
+        }
+    }
+]

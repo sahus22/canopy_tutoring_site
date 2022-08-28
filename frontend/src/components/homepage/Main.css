@@ -1,0 +1,50 @@
+:root {
+    --green1:#77a37a;
+    --green2:#97c99b;
+    --green3:#587e60;
+    --green4:#485e52;
+    --green5:#3a4f3f;
+
+    --brown1:#764c00;
+    --brown2:#906425;
+    --brown3:#d99e6a;
+    --brown4:#f4dbbb;
+    --brown5:#faf1e4;
+}
+
+/* change the background color */
+.navbar-custom {
+    background-color: var(--green1);
+}
+
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: white;
+}
+
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: white;
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:focus .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: grey;
+}
+.bg-green{
+    background-color: var(--green1);
+}
+.btn-custom {
+    background-color: var(--brown3);
+    color: white;
+}
+
+body {
+    background-color: var(--brown5);
+}
+footer {
+    background-color: var(--brown4);
+}
